@@ -2,4 +2,4 @@
 Courses taken on-line.
 These are my course certificates for interactive courses that 
 helped me to learn new programming langauges, libraries and 
-coding techniques quickly...
+coding techniques. Thank you, DataCamp!
